@@ -1,0 +1,85 @@
+---
+title: Research
+date: 2023-03-26 10:02:03
+---
+
+## AI-Assisted Anesthesia (Ph.D. Research):
+
+I led the research project on AI-Assisted Anesthesia, and as a result, one manuscript has been accepted for publication in the Journal of Clinical Monitoring and Computing, while another manuscript is currently in progress. 
+<!-- You can find the accepted manuscript [here](https://www.dropbox.com/scl/fi/i55y1bcum5c1ufwjriyow/Paper.pdf?rlkey=laozg4bdug1iw3it1yk9lhcuc&dl=0). -->
+
+1. **Data Processing:** In this project, I was responsible for cleaning and processing clinical time-series data, including EEG signals.
+
+2. **Model Identification:** I employed data-driven techniques to identify the model of anesthesia and examined the robustness and performance of a controller designed based on the identified models.
+
+3. **Neural Network Modeling:** I utilized a regression neural network to generate a novel model of anesthesia that considers multi-drug effects.
+
+4. **Reinforcement Learning (RL) Agent:** As part of the research, I proposed an actor-critic (A2C) agent using deep RL for drug injection. This agent takes into account safety constraints and operates in a simulated environment based on the trained network.
+
+These contributions have been instrumental in advancing the field of automated anesthesia and increasing safety and efficiency in drug administration.
+
+## Learning in Multi-Agent Sysetms (Ph.D. Research):
+
+[Manuscript](https://arxiv.org/abs/2305.13476)
+
+- I implemented various **policy gradient algorithms** for multi-agent systems, providing practical solutions for complex control problems.
+- Additionally, my work includes offering theoretical insights into the performance of Reinforcement Learning (RL) in scenarios such as formation control of a **swarm of robots** and the control of the distributed power sytem contributing to the understanding of RL in real-world applications.
+
+## Non-Local Control Approach for Nonlinear Systems (Internship at Honeywell):
+
+- I led research focused on developing an innovative control approach for **nonlinear systems** (e.g., robotic arms) utilizing data-driven non-local models.
+
+- Throughout this research, I collaborated closely with a research principal from **Honeywell Inc.**, fostering productive industry-academic cooperation.
+
+## Optimal Control of Integrated Solar Thermal Systems (M.A.Sc. Reseach)
+
+- I proposed a novel **optimal control strategy** for **solar thermal systems**, leading to significant increases in energy efficiency. You can access the related paper [here](https://doi.org/10.1016/j.jprocont.2019.09.008).
+
+- Additionally, I implemented **computational optimization techniques** to determine optimal configurations based on solar energy availability and energy efficiency. For further details, please refer to the corresponding paper [here](https://doi.org/10.23919/ACC.2017.7963396).
+
+## Satellite Attitude Control (B.Sc. Research)
+
+- I conducted in-depth research on **satellite attitude control** and devised an optimal controller using dynamic programming. This controller is designed to precisely control satellite attitudes using impulse thrusters.
+
+- In the course of the research, I modeled the dynamics of a satellite in 3D using quaternion coordination and developed an optimal controller for satellite attitudes using the dynamic programming optimization technique. This innovative approach was a key feature of the project.
+
+- To assess the effectiveness of the technique, I conducted thorough simulation analyses, providing valuable insights into the performance and viability of the developed control strategy.
+---
+# Other Projects:
+**AI PROTOTYPE OF SPINSIGHT MRI (TECH-E Course Project)**:
+- I created a **dashboard** using [Streamlit](https://github.com/sara-hrad/MRNet-app) to showcase the predictive capabilities of [MRNet](https://stanfordmlgroup.github.io/competitions/mrnet/), a deep neural network, in diagnosing an ACL tear in the knee.
+
+- Furthermore, I conducted comprehensive **business model analyses** to validate the feasibility and viability of the **Spinsight MRI** project.
+
+ **Undergraduate Coanda UAV Project:**
+
+As an undergraduate student, I was part of a dedicated team that successfully designed and built a prototype of a Coanda Unmanned Aerial Vehicle (UAV). This project allowed me to gain hands-on experience in aircraft design and engineering, as well as the principles of aerodynamics. Our team's achievement in creating a functional UAV prototype demonstrated our ability to collaborate effectively and apply theoretical knowledge to real-world engineering challenges.
+
+
+<!-- * Python Programming ([McMaster Manufacturing Research Institute](https://www.eng.mcmaster.ca/mcmaster-manufacturing-research-institute-mmri/)):
+    * Taught introductory and advanced Python programming concepts to students.
+    * Developed course material, including lectures, exercises, and projects.
+    * Assessed student progress through assignments and exams.
+* MATLAB Programming ([McMaster Manufacturing Research Institute](https://www.eng.mcmaster.ca/mcmaster-manufacturing-research-institute-mmri/)):
+    * Instructed students in MATLAB programming concepts, including arrays, loops, and functions.
+    * Designed and delivered course content, such as lectures, labs, and quizzes.
+    * Evaluated student performance through homework assignments and assessments.
+* MATLAB & Simulink for Engineers (Sharif University of Technology):
+    * Taught MATLAB and Simulink to undergraduate engineering students.
+    * Developed and delivered lectures and hands-on exercises to reinforce key concepts.
+    * Facilitated group discussions and provided individual support to help students master the software tools.
+    * Assessed student progress through individual and group projects, as well as exams.
+
+# Teaching Assistant:
+
+As a teaching assistant and lecturer, I have been involved in teaching various undergraduate and graduate courses at UBC. These include:
+
+* Electrical Circuits (UBC MECH 221)
+* Instrumentation (UBC MECH 220)
+* Modeling of Mechatronic Systems (UBC MECH 366)
+* Mechatronics System Instrumentation (UBC MECH 421)
+* Mechanical Vibration (UBC MECH 463)
+* Automatic Control (UBC MECH 466)
+* Modelling of Dynamic Systems (UBC MECH 529)
+* Modern Control Engineering (UBC MECH 550)
+* Foundations in Control Engineering (UBC MECH 522) -->
