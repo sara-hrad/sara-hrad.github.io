@@ -16,16 +16,16 @@ I led the research project on AI-Assisted Anesthesia, and as a result, one manus
 
 4. **Reinforcement Learning (RL) Agent:** As part of the research, I proposed an actor-critic (A2C) agent using deep RL for drug injection. This agent takes into account safety constraints and operates in a simulated environment based on the trained network.
 
-These contributions have been instrumental in advancing the field of automated anesthesia and increasing safety and efficiency in drug administration.
+These contributions have been instrumental in advancing the field of automated anesthesia, increasing safety and efficiency in drug administration, and reducing the risk of overdose.
 
-## [Learning in Multi-Agent Sysetms](https://arxiv.org/abs/2305.13476) (Ph.D. Research):
+## [Learning in Multi-Agent Systems](https://arxiv.org/abs/2305.13476) (Ph.D. Research):
 
 - I implemented various **policy gradient algorithms** for multi-agent systems, providing practical solutions for complex control problems.
-- Additionally, my work includes offering theoretical insights into the performance of Reinforcement Learning (RL) in scenarios such as formation control of a **swarm of robots** and the control of the distributed power sytem contributing to the understanding of RL in real-world applications.
+- Additionally, my work includes offering theoretical insights into the performance of Reinforcement Learning (RL) in scenarios such as formation control of a **swarm of robots** and the control of the distributed power system contributing to the understanding of RL in real-world applications.
 
 ## Non-Local Control Approach for Nonlinear Systems (Internship at Honeywell):
 
-- I led research focused on developing an innovative control approach for **nonlinear systems** (e.g., robotic arms) utilizing data-driven non-local models.
+- I led research focused on developing an innovative control approach for **nonlinear systems** utilizing data-driven non-local models.
 
 - Throughout this research, I collaborated closely with a research principal from **Honeywell Inc.**, fostering productive industry-academic cooperation.
 
@@ -50,9 +50,9 @@ These contributions have been instrumental in advancing the field of automated a
 As an undergraduate student, I was part of a dedicated team that successfully designed and built a prototype of a Coanda Unmanned Aerial Vehicle (UAV). This project allowed me to gain hands-on experience in aircraft design and engineering, as well as the principles of aerodynamics. Our team's achievement in creating a functional UAV prototype demonstrated our ability to collaborate effectively and apply theoretical knowledge to real-world engineering challenges.
 
 **AI PROTOTYPE OF SPINSIGHT MRI (TECH-E Course Project)**:
-- I created a **dashboard** using [Streamlit](https://github.com/sara-hrad/MRNet-app) to showcase the predictive capabilities of [ACL classifier](https://www.ahmedbesbes.com/blog/acl-tear-detection-part-2), a convlutional neural network, on [MRNet](https://stanfordmlgroup.github.io/competitions/mrnet/) MRI dataset.
+- As a team, we created a **dashboard** using [Streamlit](https://github.com/sara-hrad/MRNet-app) to showcase the predictive capabilities of an ACL classifier, a convlutional neural network, on [MRNet](https://stanfordmlgroup.github.io/competitions/mrnet/) MRI dataset.
 
-- Furthermore, I conducted comprehensive **business model analyses** to validate the feasibility and viability of the **Spinsight MRI** project.
+- Furthermore, we conducted comprehensive **business model analyses** to validate the feasibility and viability of the **Spinsight MRI** project.
 
 
 <!-- * Python Programming ([McMaster Manufacturing Research Institute](https://www.eng.mcmaster.ca/mcmaster-manufacturing-research-institute-mmri/)):
