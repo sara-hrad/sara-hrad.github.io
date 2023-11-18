@@ -39,7 +39,7 @@ These contributions have been instrumental in advancing the field of automated a
 
 - I conducted in-depth research on **satellite attitude control** and devised an optimal controller using dynamic programming. This controller is designed to precisely control satellite attitudes using impulse thrusters.
 
-- In the course of the research, I modeled the dynamics of a satellite in 3D using quaternion coordination and developed an optimal controller for satellite attitudes using the dynamic programming optimization technique. This innovative approach was a key feature of the project.
+- In the course of the research, I modeled the 3DoF dynamics of a satellite using quaternion coordination and developed an optimal controller for satellite attitudes using the dynamic programming optimization technique. This innovative approach was a key feature of the project.
 
 - To assess the effectiveness of the technique, I conducted thorough simulation analyses, providing valuable insights into the performance and viability of the developed control strategy.
 ---
