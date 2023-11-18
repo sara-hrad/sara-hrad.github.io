@@ -21,6 +21,7 @@ My programming skills include proficiency in:
 
 - **Python**
   - TensorFlow
+  - Pytorch
   - Keras
   - scikit-learn
   - SciPy
@@ -28,6 +29,7 @@ My programming skills include proficiency in:
   - Matplotlib
   - OpenAI gym
   - OpenCV
+  - Streamlit
 
 
 - **MATLAB & Simulink**
@@ -36,6 +38,6 @@ My programming skills include proficiency in:
   - Signal Processing
   - Optimization
 
-I'm also well-versed in version control using **Git** and typesetting with **LaTeX**, with additional experience in **SQL**, **C++** and **Linux**.
+I'm also well-versed in version control using **Git** and typesetting with **LaTeX**, with additional experience in **SQL**, **C**, **Linux**, and **Gazebo**.
 
 Feel free to reach out to me for any inquiries or collaboration opportunities.

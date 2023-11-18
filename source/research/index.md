@@ -10,17 +10,17 @@ I led the research project on AI-Assisted Anesthesia, and as a result, one manus
 
 1. **Data Processing:** In this project, I was responsible for cleaning and processing clinical time-series data, including EEG signals.
 
-2. **Model Identification:** I employed data-driven techniques to identify the model of anesthesia and examined the robustness and performance of a controller designed based on the identified models.
+2. **Model Identification:** I employed data-driven techniques to identify the model of anesthesia and examined the robustness and performance of a controller designed based on the identified models ([paper](https://link.springer.com/article/10.1007/s10877-023-01083-5)).
 
 3. **Neural Network Modeling:** I utilized a regression neural network to generate a novel model of anesthesia that considers multi-drug effects.
 
-4. **Reinforcement Learning (RL) Agent:** As part of the research, I proposed an actor-critic (A2C) agent using deep RL for drug injection. This agent takes into account safety constraints and operates in a simulated environment based on the trained network.
+4. **Reinforcement Learning (RL) Agent:** As part of the research, I proposed a novel deep RL for drugs injection. This agent takes into account safety constraints and operates in a simulated environment based on the trained network.
 
 These contributions have been instrumental in advancing the field of automated anesthesia, increasing safety and efficiency in drug administration, and reducing the risk of overdose.
 
 ## [Learning in Multi-Agent Systems](https://arxiv.org/abs/2305.13476) (Ph.D. Research):
 
-- I implemented various **policy gradient algorithms** for multi-agent systems, providing practical solutions for complex control problems.
+- I implemented various **model-based and model-free policy gradient algorithms** for multi-agent systems, providing practical solutions for complex control problems.
 - Additionally, my work includes offering theoretical insights into the performance of Reinforcement Learning (RL) in scenarios such as formation control of a **swarm of robots** and the control of the distributed power system contributing to the understanding of RL in real-world applications.
 
 ## Non-Local Control Approach for Nonlinear Systems (Internship at Honeywell):
@@ -45,15 +45,18 @@ These contributions have been instrumental in advancing the field of automated a
 ---
 # Other Projects:
 
- **Undergraduate Coanda UAV Project:**
+**[Lane Detection For Autonomous Driving](https://github.com/sara-hrad/Lane-detection-rad)**:
+- Implemented image segmentation approach, UNET on a Kaggle dataset, for detecting lane (code).
+- Achieved 99.65 accuracy and 0.88 dice score.
 
-As an undergraduate student, I was part of a dedicated team that successfully designed and built a prototype of a Coanda Unmanned Aerial Vehicle (UAV). This project allowed me to gain hands-on experience in aircraft design and engineering, as well as the principles of aerodynamics. Our team's achievement in creating a functional UAV prototype demonstrated our ability to collaborate effectively and apply theoretical knowledge to real-world engineering challenges.
-
-**AI PROTOTYPE OF SPINSIGHT MRI (TECH-E Course Project)**:
-- As a team, we created a **dashboard** using [Streamlit](https://github.com/sara-hrad/MRNet-app) to showcase the predictive capabilities of an ACL classifier, a convlutional neural network, on [MRNet](https://stanfordmlgroup.github.io/competitions/mrnet/) MRI dataset.
+**[AI PROTOTYPE](https://github.com/sara-hrad/MRNet-app) OF SPINSIGHT MRI (TECH-E Course Project)**:
+- As a team, we created a **dashboard** using Streamlit to showcase the performance of an ACL classifier, [MRNet](https://stanfordmlgroup.github.io/competitions/mrnet/) on a MRI dataset.
 
 - Furthermore, we conducted comprehensive **business model analyses** to validate the feasibility and viability of the **Spinsight MRI** project.
 
+**Undergraduate Coanda VTOL Project:**
+
+As an undergraduate student, I was part of a dedicated team that successfully designed and built a prototype of a Coanda Vertical Take-off and Landing (VTOL). This project allowed me to gain hands-on experience in aircraft design and engineering, as well as the principles of aerodynamics. Our team's achievement in creating a functional UAV prototype demonstrated our ability to collaborate effectively and apply theoretical knowledge to real-world engineering challenges.
 
 <!-- * Python Programming ([McMaster Manufacturing Research Institute](https://www.eng.mcmaster.ca/mcmaster-manufacturing-research-institute-mmri/)):
     * Taught introductory and advanced Python programming concepts to students.

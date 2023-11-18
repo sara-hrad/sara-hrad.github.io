@@ -5,10 +5,9 @@ date: 2023-03-26 09:16:00
 
 Throughout my academic journey, I undertook a diverse range of courses spanning engineering and physics, expanding my knowledge and skill set:
 
-*Graduate Level:*
 - Introduction to Machine Learning
 - Advanced Machine Learning
-- Learning to Move (Reinforcement Learning)
+- [Learning to Move (Reinforcement Learning)](https://github.com/sara-hrad/RL_basic_algorithms_rad)
 - Convex Optimization
 - Computational Optimization
 - Optimal Control
@@ -17,7 +16,10 @@ Throughout my academic journey, I undertook a diverse range of courses spanning 
 - Game Theory
 - Entrepreneurship in Tech (TECH-E)
 
-*Physics:*
+
+- Flight Dynamics
+- Linear Algebra and Statistics
+- [Algorithm including Shortest Path Algorithms](https://github.com/sara-hrad/algorithm_sara)
 - Quantum Mechanics I & II
 - Introduction to Elementary Particles
 - Spectroscopy
