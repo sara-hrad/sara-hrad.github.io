@@ -1,15 +1,19 @@
 ---
-title: Research
+title: Experience
 date: 2023-03-26 10:02:03
 ---
 
-## AI Medical Imaging (Research Intern) (Oct 2024 - May 2025)
+## AI Medical Imaging (Research Intern)
+ **Oct 2024 - May 2025**
+ **Supervisor: [Dr. Philip Edgcumbe](http://edgcumbe.ca/)**
 
 I Developed and validated an MLP algorithm to classify abnormalities in the NIH X-ray dataset and PE in converted X-ray from the CTPE dataset
 using the Google CXR foundation model. (0.93 AUC for test dataset with 0.95% confidence interval (0.90, 0.96)). 
 I also converted VGH CT scan to X-ray DICOMs for the next stage of our research.
 
-## AI-Assisted Anesthesia (Ph.D. Research): (2020 - Present) (Supervisor: Prof. Guy Dumont)
+## AI-Assisted Anesthesia (Ph.D. Research):
+ **2020 - Present**
+ **Supervisor: Prof. Guy Dumont**
 
 I led the research project on AI-Assisted Anesthesia, and as a result, one manuscript has been accepted for publication in the Journal of Clinical Monitoring and Computing, while another manuscript is currently in progress. 
 <!-- You can find the accepted manuscript [here](https://www.dropbox.com/scl/fi/i55y1bcum5c1ufwjriyow/Paper.pdf?rlkey=laozg4bdug1iw3it1yk9lhcuc&dl=0). -->
@@ -24,24 +28,29 @@ I led the research project on AI-Assisted Anesthesia, and as a result, one manus
 
 These contributions have been instrumental in advancing the field of automated anesthesia, increasing safety and efficiency in drug administration, and reducing the risk of overdose.
 
-## [Learning in Multi-Agent Systems](https://arxiv.org/abs/2305.13476) (Ph.D. Research): (2022- 2024) (Supervisor: Prof. Maryam Kamgarpour)
+## [Learning in Multi-Agent Systems](https://arxiv.org/abs/2305.13476) (Ph.D. Research):
+ **2022- 2024**
+ **Supervisor: Prof. Maryam Kamgarpour**
 
 - I implemented various **model-based and model-free policy gradient algorithms** for multi-agent systems, providing practical solutions for complex control problems.
 - Additionally, my work includes offering theoretical insights into the performance of Reinforcement Learning (RL) in scenarios such as formation control of a **swarm of robots** and the control of the distributed power system contributing to the understanding of RL in real-world applications.
 
-## Non-Local Control Approach for Nonlinear Systems (Research intern at Honeywell): (May 2019-Oct 2019)
+## Non-Local Control Approach for Nonlinear Systems (Research intern at Honeywell): 
+**May 2019-Oct 2019**
 
 - I led research focused on developing an innovative control approach for **nonlinear systems** utilizing data-driven non-local models.
 
 - Throughout this research, I collaborated closely with a research principal from **Honeywell Inc.**, fostering productive industry-academic cooperation.
 
-## Optimal Control of Integrated Solar Thermal Systems (M.A.Sc. Reseach): (2016 - 2018)
+## Optimal Control of Integrated Solar Thermal Systems (M.A.Sc. Reseach):
+ **2016 - 2018**
 
 - I proposed a novel **optimal control strategy** for **solar thermal systems**, leading to significant increases in energy efficiency. You can access the related paper [here](https://doi.org/10.1016/j.jprocont.2019.09.008).
 
 - Additionally, I implemented **computational optimization techniques** to determine optimal configurations based on solar energy availability and energy efficiency. For further details, please refer to the corresponding paper [here](https://doi.org/10.23919/ACC.2017.7963396).
 
-## Satellite Attitude Control (B.Sc. Research) (2015)
+## Satellite Attitude Control (B.Sc. Research) 
+**Summer 2015**
 
 - I conducted in-depth research on **satellite attitude control** and devised an optimal controller using **dynamic programming**. This controller is designed to precisely control satellite attitudes using impulse thrusters.
 

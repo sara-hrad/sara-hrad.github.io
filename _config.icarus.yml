@@ -108,11 +108,11 @@ navbar:
         Home: /
         Experience: /research
         # Projects: /projects
+        Awards: /awards
+        Courses: /courses
         Leadership: /leadership
         Teaching: /teaching
-        Courses: /courses
-        Awards: /awards
-        Credentials: /credentials
+        # Credentials: /credentials
     #        Archives: /archives
 #        Categories: /categories
 #        Tags: /tags
