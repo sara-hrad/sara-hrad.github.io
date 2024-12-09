@@ -106,7 +106,7 @@ navbar:
     # Navigation menu items
     menu:
         Home: /
-        Research: /research
+        Experience: /research
         # Projects: /projects
         Leadership: /leadership
         Teaching: /teaching

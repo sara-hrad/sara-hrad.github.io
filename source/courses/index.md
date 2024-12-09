@@ -5,26 +5,36 @@ date: 2023-03-26 09:16:00
 
 Throughout my academic journey, I undertook a diverse range of courses spanning engineering and physics, expanding my knowledge and skill set:
 
-- Introduction to Machine Learning
-- Advanced Machine Learning
-- [Learning to Move (Reinforcement Learning)](https://github.com/sara-hrad/RL_basic_algorithms_rad)
-- Convex Optimization
-- Computational Optimization
-- Optimal Control
-- Multi-Variable & Robust Control
-- Self-Tuning & Adaptive Control (MPC)
-- Game Theory
-- Entrepreneurship in Tech (TECH-E)
+- UBC CS Introduction to Machine Learning
+- UBC CS Advanced Machine Learning
+- [UBC CS Learning to Move (Reinforcement Learning)](https://github.com/sara-hrad/RL_basic_algorithms_rad)
+- UBC CS Convex Optimization
+- UBC CS Computational Optimization
+- UBC ECE Optimal Control
+- UBC ECE Multi-Variable & Robust Control
+- UBC ECE Self-Tuning & Adaptive Control (MPC)
+- UBC ECE Game Theory
 
 
 - Flight Dynamics
 - Linear Algebra and Statistics
-- [Algorithm including Shortest Path Algorithms](https://github.com/sara-hrad/algorithm_sara)
 - Quantum Mechanics I & II
 - Introduction to Elementary Particles
 - Spectroscopy
 
 These courses equipped me with a comprehensive understanding of various technical domains and enabled me to broaden my expertise in both engineering and physics disciplines.
+
+Other online courses, mainly on Algoritm ([code](https://github.com/sara-hrad/algorithm_sara))
+
+- **Divide and Conquer, Sorting and Searching, and Randomized Algorithms**
+  - Accomplished through Stanford on Coursera
+
+- **Graph Search, Shortest Paths, and Data Structure**
+  - Accomplished through Stanford on Coursera Stanford, Coursera
+
+- **Robotics: Computational Motion Planning**
+  - Attained through the University of Pennsylvania on Coursera
+
 
 <!-- Throughout my academic journey, I have pursued various courses that are vital for my research interests. These include:
 
