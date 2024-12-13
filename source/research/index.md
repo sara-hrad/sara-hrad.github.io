@@ -7,9 +7,7 @@ date: 2023-03-26 10:02:03
  **Oct 2024 - May 2025**
  **Supervisor: [Dr. Philip Edgcumbe](http://edgcumbe.ca/)**
 
-I Developed and validated an MLP algorithm to classify abnormalities in the NIH X-ray dataset and PE in converted X-ray from the CTPE dataset
-using the Google CXR foundation model. (0.93 AUC for test dataset with 0.95% confidence interval (0.90, 0.96)). 
-I also converted VGH CT scan to X-ray DICOMs for the next stage of our research.
+I developed and validated an MLP algorithm to classify abnormalities in the NIH X-ray dataset using the Google CXR foundation model. (0.93 AUC for test dataset with 0.95% confidence interval (0.90, 0.96)). I also converted VGH CT scan to X-ray DICOMs for the next stage of our research.
 
 ## AI-Assisted Anesthesia (Ph.D. Research):
  **2020 - Present**
@@ -22,9 +20,9 @@ I led the research project on AI-Assisted Anesthesia, and as a result, one manus
 
 2. **Model Identification:** I employed data-driven techniques to identify the model of anesthesia and Validated the robustness and performance of a controller designed based on the identified models ([paper](https://link.springer.com/article/10.1007/s10877-023-01083-5)).
 
-3. **Anesthesia Response Simulation:** My master student collaborator and I developed a comprehensive multi-agent simulation of anesthesia as a Python package and a Matlab toolbox. (paper in progress)
+3. **Anesthesia Response Simulation:** My master student collaborator and I developed a comprehensive multi-variable simulation of anesthesia as a Python package and a Matlab toolbox. (paper in progress)
 
-4. **Data-Driven Predictive Control:** As part of the research, I am developing a data-driven predictive control for multi-loop control and multi-drug injection, considering safety constraint and comparing it with a deep reinforcement agent.This controller is compared with a generalized MPC and a simple RL agent.
+4. **Automation of Anesthesia:** As part of the research, I am developing a  multi-objective RL agent for multi-loop control and multi-drug injection, considering safety constraint and comparing it with a classical predictive controller.
 
 These contributions have been instrumental in advancing the field of automated anesthesia, increasing safety and efficiency in drug administration, and reducing the risk of overdose.
 
@@ -32,8 +30,8 @@ These contributions have been instrumental in advancing the field of automated a
  **2022- 2024**
  **Supervisor: Prof. Maryam Kamgarpour**
 
-- I implemented various **model-based and model-free policy gradient algorithms** for multi-agent systems, providing practical solutions for complex control problems.
-- Additionally, my work includes offering theoretical insights into the performance of Reinforcement Learning (RL) in scenarios such as formation control of a **swarm of robots** and the control of the distributed power system contributing to the understanding of RL in real-world applications.
+<!-- - I implemented various **model-based and model-free policy gradient algorithms** for multi-agent systems, providing practical solutions for complex control problems. -->
+- My work offers theoretical insights into the performance of Reinforcement Learning (RL) in scenarios such as formation control of a **swarm of robots** and the control of the distributed power system contributing to the understanding of RL in real-world applications.
 
 ## Non-Local Control Approach for Nonlinear Systems (Research intern at Honeywell): 
 **May 2019-Oct 2019**
