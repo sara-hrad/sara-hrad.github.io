@@ -47,7 +47,13 @@ These contributions have been instrumental in advancing the field of automated a
 
 - Additionally, I implemented **computational optimization techniques** to determine optimal configurations based on solar energy availability and energy efficiency. For further details, please refer to the corresponding paper [here](https://doi.org/10.23919/ACC.2017.7963396).
 
-## Satellite Attitude Control (B.Sc. Research) 
+## Other Projects:
+
+**[Lane Detection For Autonomous Driving](https://github.com/sara-hrad/Lane-detection-rad)**:
+- Implemented image segmentation approach, UNET on a Kaggle dataset, for detecting lane (code).
+- Achieved 99.65 accuracy and 0.88 dice score.
+
+**Satellite Attitude Control (B.Sc. Research)**
 **Summer 2015**
 
 - I conducted in-depth research on **satellite attitude control** and devised an optimal controller using **dynamic programming**. This controller is designed to precisely control satellite attitudes using impulse thrusters.
@@ -56,11 +62,7 @@ These contributions have been instrumental in advancing the field of automated a
 
 - To assess the effectiveness of the technique, I conducted thorough simulation analyses, providing valuable insights into the performance and viability of the developed control strategy.
 ---
-<!-- # Other Projects:
-
-**[Lane Detection For Autonomous Driving](https://github.com/sara-hrad/Lane-detection-rad)**:
-- Implemented image segmentation approach, UNET on a Kaggle dataset, for detecting lane (code).
-- Achieved 99.65 accuracy and 0.88 dice score.
+<!--
 
 **[AI PROTOTYPE](https://github.com/sara-hrad/MRNet-app) OF SPINSIGHT MRI (TECH-E Course Project)**:
 - As a team, we created a **dashboard** using Streamlit to showcase the performance of an ACL classifier, [MRNet](https://stanfordmlgroup.github.io/competitions/mrnet/) on a MRI dataset.
