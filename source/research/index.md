@@ -50,7 +50,7 @@ These contributions have been instrumental in advancing the field of automated a
 ## Other Projects:
 
 **[Lane Detection For Autonomous Driving](https://github.com/sara-hrad/Lane-detection-rad)**:
-- Implemented image segmentation approach, UNET on a Kaggle dataset, for detecting lane (code).
+- Implemented image segmentation approach, UNET on a Kaggle dataset, for detecting lane.
 - Achieved 99.65 accuracy and 0.88 dice score.
 
 **Satellite Attitude Control (B.Sc. Research)**
